@@ -6,6 +6,8 @@ This project predicts the likelihood of a brain stroke using machine learning mo
 ## Dataset
 - Features: gender, age, hypertension, heart disease, marital status, work type, residence type, average glucose level, BMI, smoking status, and stroke occurrence.
 
+Link to the dataset: https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
+
 ## Project Structure
 
 ### Libraries
